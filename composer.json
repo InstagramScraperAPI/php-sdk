@@ -1,0 +1,21 @@
+{
+    "name": "instagramscraperapi/php-sdk",
+    "description": "Instagram scraper, with support for users, medias, tags and locations. Proxified by Residential and Mobile IPs.",
+    "keywords": [
+        "instagram",
+        "scraper",
+        "instagram-scraper"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/InstagramScraperAPI/php-sdk",
+    "readme": "README.md",
+    "require": {
+        "php": ">=5.6.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+       "psr-4": {
+           "angeljunior\\": "src"
+       }
+   }
+}
