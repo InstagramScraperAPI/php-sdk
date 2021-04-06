@@ -19,7 +19,7 @@ Proxified for [Instagram Scraper API](https://instagramscraperapi.com) use a int
 ## Installation
 
 ```
-composer require instagramscraperapi/php-skd
+composer require instagramscraperapi/php-sdk
 ```
 
 
