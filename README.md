@@ -1,6 +1,6 @@
 # 📷 Instagram Scraper
 
-[![Latest Stable Version](https://poser.pugx.org/instagramscraperapi/instagram-scraper/v)](https://packagist.org/packages/instagramscraperapi/instagram-scraper) [![Total Downloads](https://poser.pugx.org/instagramscraperapi/instagram-scraper/downloads)](https://packagist.org/packages/instagramscraperapi/instagram-scraper) [![License](https://poser.pugx.org/instagramscraperapi/instagram-scraper/license)](https://packagist.org/packages/instagramscraperapi/instagram-scraper)
+[![Latest Stable Version](https://poser.pugx.org/instagramscraperapi/php-sdk/v)](https://packagist.org/packages/instagramscraperapi/php-sdk) [![Total Downloads](https://poser.pugx.org/instagramscraperapi/php-sdk/downloads)](https://packagist.org/packages/instagramscraperapi/php-sdk) [![License](https://poser.pugx.org/instagramscraperapi/php-sdk/license)](https://packagist.org/packages/instagramscraperapi/php-sdk)
 
 Instagram scraper, with support for users, medias, tags, comments and locations. Proxified by Residential and 4G Proxies.
 
