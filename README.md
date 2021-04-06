@@ -12,14 +12,14 @@ Proxified for [Instagram Scraper API](https://instagramscraperapi.com) use a int
 
 ## Requirements
 
-- Rapid API Account
+- Instagram Scraper API
 - PHP 5.6.0 or higher
 
 
 ## Installation
 
 ```
-composer require instagramscraperapi/instagram-scraper
+composer require instagramscraperapi/php-skd
 ```
 
 
@@ -30,7 +30,7 @@ composer require instagramscraperapi/instagram-scraper
 Informe your Rapid API Key
 
 ```php
-$is = new instagramscraperapi\InstagramScraper('API-KEY');
+$is = new InstagramScraperAPI\InstagramScraper('API-KEY');
 ```
 
 ### Getting a public users data

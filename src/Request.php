@@ -28,7 +28,7 @@ class Request
         $this->_userAgent =  'InstagramScraperAPI/1.0';
         $this->_parent = $parent;
         $this->_url = $this->_parent->_API . $url;
-        $this->addParam('key', $this->_parent->key);
+        $this->addParam('key', $this->_parent->_key);
         return $this;
     }
 
